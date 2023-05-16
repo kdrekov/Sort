@@ -32,10 +32,7 @@ namespace MyApp
             {
                 arrSortded[arrSortedIndex[i]] = arrForSort[i];
             }
-            for (int i = 0; i < arrSortded.Length; i++)
-            {
-                Console.WriteLine(arrSortded[i]);
-            }
+   
         }
     }
 }
